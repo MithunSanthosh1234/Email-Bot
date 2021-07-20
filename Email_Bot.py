@@ -1,4 +1,4 @@
-import smtplib
+import smtplib '''send mail to any Internet machine'''
 import pyttsx3
 import speech_recognition as sr
 from email.message import EmailMessage
